@@ -1,2 +1,2 @@
 # AED-1-2019-1
-Discipline Codes
+Discipline Codes of Algorithms and Data Structures
